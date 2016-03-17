@@ -5,3 +5,6 @@ Vous trouverez le schéma de l'émetteur sur : http://rasp-pi.ici.st/emetteur-re
 
 L'émetteur est écrit pour obtimiser la consommation pour un fonctionnement sur pile. 
 
+Retrouver le bolg ici http://rasp-pi.fr.nf
+
+
